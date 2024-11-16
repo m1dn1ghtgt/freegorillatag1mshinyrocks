@@ -1,0 +1,10 @@
+C:\Users\ozzyl\source\repos\gila tac fre no vires\gila tac fre no vires\bin\Debug\gila tac fre no vires.exe.config
+C:\Users\ozzyl\source\repos\gila tac fre no vires\gila tac fre no vires\bin\Debug\gila tac fre no vires.exe
+C:\Users\ozzyl\source\repos\gila tac fre no vires\gila tac fre no vires\bin\Debug\gila tac fre no vires.pdb
+C:\Users\ozzyl\source\repos\gila tac fre no vires\gila tac fre no vires\obj\Debug\gila tac fre no vires.csproj.AssemblyReference.cache
+C:\Users\ozzyl\source\repos\gila tac fre no vires\gila tac fre no vires\obj\Debug\gila_tac_fre_no_vires.Form1.resources
+C:\Users\ozzyl\source\repos\gila tac fre no vires\gila tac fre no vires\obj\Debug\gila_tac_fre_no_vires.Properties.Resources.resources
+C:\Users\ozzyl\source\repos\gila tac fre no vires\gila tac fre no vires\obj\Debug\gila tac fre no vires.csproj.GenerateResource.cache
+C:\Users\ozzyl\source\repos\gila tac fre no vires\gila tac fre no vires\obj\Debug\gila tac fre no vires.csproj.CoreCompileInputs.cache
+C:\Users\ozzyl\source\repos\gila tac fre no vires\gila tac fre no vires\obj\Debug\gila tac fre no vires.exe
+C:\Users\ozzyl\source\repos\gila tac fre no vires\gila tac fre no vires\obj\Debug\gila tac fre no vires.pdb
